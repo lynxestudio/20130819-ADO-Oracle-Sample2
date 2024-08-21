@@ -4,8 +4,13 @@ Todos los programas que utilizan las clases e interfaces del proveedor predeterm
 
 A continuación el código actualizado de las clases Helper de ADO.NET que publique en este post.
 
-Como ejemplo del uso del helper, tenemos el código de la clase CustomerDAC cuya funcionalidad es tener los métodos CRUD para una entidad Customer.
+Como ejemplo del uso del helper, tenemos el código de la clase CustomerDAC cuya funcionalidad es tener los métodos CRUD para una entidad Employee.
 
 
-Para finalizar el código de una aplicación de consola que muestra el uso de la clases del Helper para implementar todos los metodos CRUD (Create,Retrieve, Update, Delete).
+Para finalizar una aplicación de consola que muestra el uso de la clases del Helper para implementar todos los metodos CRUD (Create,Retrieve, Update, Delete).
+
+Este programa utiliza la base de datos HR de Oracle, la cual puede ser descargada aqui:
+
+<a href="https://github.com/oracle-samples/db-sample-schemas">Oracle db samples</a>
+
 
